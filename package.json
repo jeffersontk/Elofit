@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/jeffersontk/Elofit#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.5.3",
     "next": "^10.0.5",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "reactstrap": "^8.8.1"
   }
 }

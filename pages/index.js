@@ -1,5 +1,9 @@
+import Hero from '../components/hero'
+
 function Home() {
-  return <div> Elofit</div>
+  return (
+    <Hero />
+  )
 }
 
 export default Home
