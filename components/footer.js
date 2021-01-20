@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 
-function hero() {
+function footer() {
   return (
     <div>
-      <h1>Hero</h1>
+      <h1>footer</h1>
     </div>
   )
 }
 
-export default hero
+export default footer

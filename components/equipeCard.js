@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 
-function hero() {
+function equipe() {
   return (
     <div>
-      <h1>Hero</h1>
+      <h1>Equipe</h1>
     </div>
   )
 }
 
-export default hero
+export default equipe

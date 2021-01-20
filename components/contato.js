@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 
-function hero() {
+function contato() {
   return (
     <div>
-      <h1>Hero</h1>
+      <h1>contato</h1>
     </div>
   )
 }
 
-export default hero
+export default contato
