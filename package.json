@@ -1,27 +1,18 @@
 {
-  "name": "Elofit",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "frontendv1",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeffersontk/Elofit.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeffersontk/Elofit/issues"
-  },
-  "homepage": "https://github.com/jeffersontk/Elofit#readme",
   "dependencies": {
-    "@zeit/next-css": "^1.0.1",
-    "bootstrap": "^4.5.3",
-    "next": "^10.0.5",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "autoprefixer": "^10.2.3",
+    "next": "10.0.5",
+    "postcss": "^8.2.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.2"
   }
 }
