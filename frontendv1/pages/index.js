@@ -9,7 +9,7 @@ import Footer from '../components/footer'
 
 function Home() {
   return (
-    <div className="contentIndex">
+    <div className="container-fluid">
       <Toolbar />
       <Hero />
       <UnidadesCard/>

@@ -2,23 +2,21 @@ import React from 'react';
 
 function hero() {
   return (
-    <heade className="Container-hero">
-      <div className="hero-fundo container-fluid">
-        <div className="content-hero">
-          <div>
-            <h1 className="title">Elofit uma academia para todos, venha começar hoje seu treino.</h1>
-          </div>
-          <div className="content-plan">
-            <div>
-              <span>Planos</span> <br/>
-              <span>a partir de</span>
+    <>
+      <header className="bg-hero-pattern-lg bg-auto bg-no-repeat bg-center bg-cover bg-fixed">
+        <div className="bg-hero-blur h-screen flex flex-col items-center px-4 justify-center">
+          <h1 className="text-white text-3xl font-bold text-center">Elofit uma academia para todos, venha começar hoje mesmo seu treino.</h1>
+          <div className="flex my-6">
+            <div className="text-green-light font-bold text=3xl mx-2">
+              <span>Planos a</span> <br/>
+              <span>partir de</span>
             </div>
-            <span className="plan-price">R$79<small>,90</small></span>
+            <span className="text-white text-5xl font-bold">R$79<small>,90</small></span>
           </div>
-          <a href="#">Matricule-se já</a>
+          <a href="#" className="btn bg-green text-white h-12 p-3 rounded-md text-center">Matricule-se já</a>
         </div>
-      </div>
-    </heade>
+      </header>
+    </>
   )
 }
 
