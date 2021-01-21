@@ -6,9 +6,10 @@ import Atividades from '../components/atividades'
 import Contato from '../components/contato'
 import Depoimento from '../components/depoimento'
 import Footer from '../components/footer'
+
 function Home() {
   return (
-    <>
+    <div className="contentIndex">
       <Toolbar />
       <Hero />
       <UnidadesCard/>
@@ -17,7 +18,7 @@ function Home() {
       <Contato />
       <Depoimento />
       <Footer/>
-    </>
+    </div>
   )
 }
 
