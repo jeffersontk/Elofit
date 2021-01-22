@@ -3,7 +3,7 @@ import React from 'react';
 function hero() {
   return (
     <>
-      <header className="bg-hero-pattern-lg bg-auto bg-no-repeat bg-center bg-cover bg-fixed">
+      <header className="md:bg-hero-pattern-lg bg-hero-pattern-xs bg-auto bg-no-repeat bg-center bg-cover bg-fixed">
         <div className="bg-hero-blur flex flex-col items-center md:items-start px-4 justify-center h-screen">
           <div className="md:max-w-xl ml-10 mt-40 md:mt-0">
             <h1 className="text-white md:text-4sm text-3xl  font-regular"> <strong className="text-green-light text-4xl ">Elofit academia para todos <br/> </strong> Venha começar hoje mesmo seu treino.</h1>
