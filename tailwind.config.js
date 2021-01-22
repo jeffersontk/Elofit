@@ -22,7 +22,8 @@ module.exports = {
     extend: {
       backgroundAttachment: false,
       backgroundImage: theme => ({
-        'hero-pattern-lg': "url('https://blog.academiaboaforma.com.br/wp-content/uploads/2019/09/305712-4-beneficios-de-frequentar-uma-academia-para-familia.jpg')",
+        'hero-pattern-lg': "url('https://i.pinimg.com/564x/04/30/b9/0430b961c686e5d8b451c0eea94417be.jpg')",
+        'hero-pattern-xs': "url('https://i.pinimg.com/564x/ae/ce/f9/aecef98c28265d81d7c37b4135b0e1a1.jpg')",
         'hero-blur': 'linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0,0.6))'
       }),
       outline: {
