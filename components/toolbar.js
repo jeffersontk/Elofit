@@ -12,8 +12,8 @@ function toolbar() {
     <nav className="flex items-center bg-hero-blur fixed w-full py-3 flex-wrap">
       <a href="#hero" className="p-2 ml-6 lg:ml-12">
         <div className="flex-shrink-0 flex items-center">
-          <img className="block lg:hidden h-8 w-auto" src="https://i.pinimg.com/236x/0b/fc/25/0bfc250fe27706e5cdca688e254a5f3a.jpg" alt="Logo-Elofit" />
-          <img className="hidden lg:block h-8 w-auto" src="https://i.pinimg.com/236x/0b/fc/25/0bfc250fe27706e5cdca688e254a5f3a.jpg" alt="Logo-Elofit"/>
+          <img className="block lg:hidden h-8 w-auto" src="../assets/logo-elofit.png" alt="Logo-Elofit"/>
+          <img className="hidden lg:block h-8 w-auto" src="../assets/logo-elofit.png" alt="Logo-Elofit"/>
         </div>
       </a>
       <button
@@ -24,7 +24,7 @@ function toolbar() {
         </svg>
       </button>
       <div className="hidden top-nav w-full lg:inline-flex lg:flex-grow lg:w-auto" id="navigation">
-        <div className="lg:inline-flex items-end lg:flex-row lg:ml-auto lg:mr-12 flex flex-col">
+        <div className="lg:inline-flex items-center lg:flex-row lg:ml-auto lg:mr-12 flex flex-col">
           <a href="#unidade" className="bg-gray-900 hover:bg-gray-dark text-green-light px-3 py-3 rounded-md text-sm font-semibold">Unidades</a>
           <a href="#atividades" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Atividades</a>
           <a href="#equipe" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Equipe</a>
