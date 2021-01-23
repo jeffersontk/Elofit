@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 function menuShow() {
   let menu = document.querySelector('#navigation')
   menu.classList.contains('hidden') ? menu.classList.remove('hidden') : menu.classList.add('hidden')
