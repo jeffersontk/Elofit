@@ -1,15 +1,15 @@
-import Toolbar from '../components/toolbar'
-import Hero from '../components/hero'
-import UnidadesCard from '../components/unidadesCard'
-import EquipeCard from '../components/equipeCard'
-import Atividades from '../components/atividades'
-import Contato from '../components/contato'
-import Depoimento from '../components/depoimento'
-import Footer from '../components/footer'
+import Toolbar from '../src/components/toolbar'
+import Hero from '../src/components/hero'
+import UnidadesCard from '../src/components/unidadesCard'
+import EquipeCard from '../src/components/equipeCard'
+import Atividades from '../src/components/atividades'
+import Contato from '../src/components/contato'
+import Depoimento from '../src/components/depoimento'
+import Footer from '../src/components/footer'
 
 function Home() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid w-screen h-screen">
       <Toolbar />
       <Hero />
       <UnidadesCard/>
