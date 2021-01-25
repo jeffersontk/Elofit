@@ -35,6 +35,8 @@ module.exports = {
         'hero-blur': 'linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0,0.6))',
         'card-unidade-sc': "url('https://www.sesc-sc.com.br/blog/Manager/show_image.php?show_arquivo=institucional&show_campo=institucional_imagem_pq&show_chave=Institucional_id=8277')",
         'card-blur': 'linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4))',
+        'card-equipe': "url('https://images.pexels.com/photos/841125/pexels-photo-841125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')",
+        'card-prof': 'linear-gradient(180deg, #000000 1.82%, rgba(10, 18, 0, 0.96662) 21.46%, rgba(15, 27, 0, 0.947919) 35.57%, rgba(22, 39, 0, 0.926669) 45.15%, rgba(31, 55, 0, 0.89601) 54.72%, rgba(92, 163, 0, 0.69) 100%)'
       }),
       outline: {
         linha: '2px solid #5CA300'

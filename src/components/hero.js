@@ -14,7 +14,7 @@ function hero() {
                 <span>Planos a</span> <br/>
                 <span>partir de</span>
               </div>
-              <span className="text-white text-5xl font-bold">R$79<small>,90</small></span>
+              <span className="text-white text-5xl font-bold">R$59<small>,90</small></span>
             </div>
             <a href="#" className="btn bg-green text-white h-12 px-8 py-3 md:ml-5 rounded-md text-center font-bold">Matricule-se já</a>
           </div>

@@ -11,8 +11,7 @@ function toolbar() {
     <nav className="flex items-center bg-hero-blur fixed py-3 flex-wrap w-screen">
       <a href="#hero" className="p-2 ml-6 lg:ml-12">
         <div className="flex-shrink-0 flex items-center">
-          <img className="block lg:hidden h-10 w-auto" src="https://lh3.googleusercontent.com/IxZ9q0EpVwjBizT53_gRtKiLDsK94A1t8ECMm6smsaNQiv1YvW3n6U85YitZ6h1-FW3i-hGB-N-sw6TTLozGOGCbtqAWqNdTF9z1AAVx-MLMk5ElcAhtfoIP5tDNc9PJ-ic18RNEBRcszRGUWSQwbx9toj1SUv7SpV7I42yl4uFHX3qpu4iXuus_MCuc_cIEFlweOp99k25v-R7aJMEZq91t8ZPNtVYvKjdx_-yJJ1xFA2brtnfMOvUOhOt3Z9bHJwKhPGra-PnyFx4iiSlfW5HjUto7Y-VmTRHsuRVWI6QKK_HKsTgvNsRjotoAm4rRPya0UwaZ25uNcMPMxi0r8Wp7zqggwhRke2hlvglmEODxT2xxPfrqE0VmrdJwyqkA65v2D4oVPkWcbOz83G7rPReSHnKvZJTBP5Ll5Tgf2_f6PY4iDpH4JHsDNEAWS49c3w6s4PdmXKTYlj4Su3h2m4zOh4xJhlSTMbHcG3YzzIiDOVKj9F19yHcaOszoSftP6w7Oy7vXBUmqHLQlEd3IF5g9TNm5r5Yg1JgXR1QLZHNe_zIIyp4Q7pg5cdTyLLzPjxY3EKxGGxxeTyLFqfCDOCTZIKKSMFOxvd3oOt4u7_Pyb-2w9U5E5mNaWf5_9u_CvZwO9kbcJBVxLaBpv1Li9k9Zn56StLWeFT4Dd3QxFX_cmRJI416HkWFcHS8ixSM=w186-h162-no?authuser=0" alt="Logo-Elofit"/>
-          <img className="hidden lg:block h-10 w-auto" src="https://lh3.googleusercontent.com/IxZ9q0EpVwjBizT53_gRtKiLDsK94A1t8ECMm6smsaNQiv1YvW3n6U85YitZ6h1-FW3i-hGB-N-sw6TTLozGOGCbtqAWqNdTF9z1AAVx-MLMk5ElcAhtfoIP5tDNc9PJ-ic18RNEBRcszRGUWSQwbx9toj1SUv7SpV7I42yl4uFHX3qpu4iXuus_MCuc_cIEFlweOp99k25v-R7aJMEZq91t8ZPNtVYvKjdx_-yJJ1xFA2brtnfMOvUOhOt3Z9bHJwKhPGra-PnyFx4iiSlfW5HjUto7Y-VmTRHsuRVWI6QKK_HKsTgvNsRjotoAm4rRPya0UwaZ25uNcMPMxi0r8Wp7zqggwhRke2hlvglmEODxT2xxPfrqE0VmrdJwyqkA65v2D4oVPkWcbOz83G7rPReSHnKvZJTBP5Ll5Tgf2_f6PY4iDpH4JHsDNEAWS49c3w6s4PdmXKTYlj4Su3h2m4zOh4xJhlSTMbHcG3YzzIiDOVKj9F19yHcaOszoSftP6w7Oy7vXBUmqHLQlEd3IF5g9TNm5r5Yg1JgXR1QLZHNe_zIIyp4Q7pg5cdTyLLzPjxY3EKxGGxxeTyLFqfCDOCTZIKKSMFOxvd3oOt4u7_Pyb-2w9U5E5mNaWf5_9u_CvZwO9kbcJBVxLaBpv1Li9k9Zn56StLWeFT4Dd3QxFX_cmRJI416HkWFcHS8ixSM=w186-h162-no?authuser=0" alt="Logo-Elofit"/>
+          <img className="lg:block h-10 w-auto" src="https://lh3.googleusercontent.com/IxZ9q0EpVwjBizT53_gRtKiLDsK94A1t8ECMm6smsaNQiv1YvW3n6U85YitZ6h1-FW3i-hGB-N-sw6TTLozGOGCbtqAWqNdTF9z1AAVx-MLMk5ElcAhtfoIP5tDNc9PJ-ic18RNEBRcszRGUWSQwbx9toj1SUv7SpV7I42yl4uFHX3qpu4iXuus_MCuc_cIEFlweOp99k25v-R7aJMEZq91t8ZPNtVYvKjdx_-yJJ1xFA2brtnfMOvUOhOt3Z9bHJwKhPGra-PnyFx4iiSlfW5HjUto7Y-VmTRHsuRVWI6QKK_HKsTgvNsRjotoAm4rRPya0UwaZ25uNcMPMxi0r8Wp7zqggwhRke2hlvglmEODxT2xxPfrqE0VmrdJwyqkA65v2D4oVPkWcbOz83G7rPReSHnKvZJTBP5Ll5Tgf2_f6PY4iDpH4JHsDNEAWS49c3w6s4PdmXKTYlj4Su3h2m4zOh4xJhlSTMbHcG3YzzIiDOVKj9F19yHcaOszoSftP6w7Oy7vXBUmqHLQlEd3IF5g9TNm5r5Yg1JgXR1QLZHNe_zIIyp4Q7pg5cdTyLLzPjxY3EKxGGxxeTyLFqfCDOCTZIKKSMFOxvd3oOt4u7_Pyb-2w9U5E5mNaWf5_9u_CvZwO9kbcJBVxLaBpv1Li9k9Zn56StLWeFT4Dd3QxFX_cmRJI416HkWFcHS8ixSM=w186-h162-no?authuser=0" alt="Logo-Elofit"/>
         </div>
       </a>
       <button
@@ -22,10 +21,10 @@ function toolbar() {
       </button>
       <div className="hidden top-nav w-full lg:inline-flex lg:flex-grow lg:w-auto" id="navigation">
         <div className="lg:inline-flex items-center lg:flex-row lg:ml-auto lg:mr-12 flex flex-col">
-          <a href="#unidade" className="bg-gray-900 hover:bg-gray-dark text-green-light px-3 py-3 rounded-md text-sm font-semibold">Unidades</a>
-          <a href="#atividades" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Atividades</a>
-          <a href="#equipe" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Equipe</a>
-          <a href="#contato" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Contato</a>
+          <a onClick={menuShow} href="#unidade" className="bg-gray-900 hover:bg-gray-dark text-green-light px-3 py-3 rounded-md text-sm font-semibold">Unidades</a>
+          <a onClick={menuShow} href="#atividades" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Atividades</a>
+          <a onClick={menuShow} href="#equipe" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Equipe</a>
+          <a onClick={menuShow} href="#contato" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Contato</a>
         </div>
       </div>
     </nav>
