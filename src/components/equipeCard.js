@@ -3,7 +3,7 @@ import React from 'react';
 function equipe() {
   return (
     <section>
-      <div className="bg-card-equipe bg-center bg-cover h-full">
+      <div className="bg-card-equipe bg-center bg-cover h-full bg-fixed" id="equipe">
         <div className="bg-hero-blur h-full">
           <div className="items-center py-6 w-full">
             <h1 className="text-green-light font-bold text-2xl md:text-3xl text-center">Equipe Elofit</h1>

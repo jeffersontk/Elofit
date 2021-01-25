@@ -22,8 +22,8 @@ function toolbar() {
       <div className="hidden top-nav w-full lg:inline-flex lg:flex-grow lg:w-auto" id="navigation">
         <div className="lg:inline-flex items-center lg:flex-row lg:ml-auto lg:mr-12 flex flex-col">
           <a onClick={menuShow} href="#unidade" className="bg-gray-900 hover:bg-gray-dark text-green-light px-3 py-3 rounded-md text-sm font-semibold">Unidades</a>
-          <a onClick={menuShow} href="#atividades" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Atividades</a>
           <a onClick={menuShow} href="#equipe" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Equipe</a>
+          <a onClick={menuShow} href="#atividades" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Atividades</a>
           <a onClick={menuShow} href="#contato" className="text-white hover:bg-gray-dark px-3 py-3 rounded-md text-sm font-semibold">Contato</a>
         </div>
       </div>
