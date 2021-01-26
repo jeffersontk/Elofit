@@ -1,0 +1,97 @@
+{
+  "title": "Elofit",
+  "links": {
+    "matricula": ""
+  },
+  "planos": [
+    {
+      "nome": "",
+      "preco": "",
+      "validade": "",
+      "beneficios": [],
+      "campanha": false
+    }
+  ],
+  "info": {
+    "unidade": [
+      {
+        "rua": "Est. Dos Sete Riachos",
+        "numero": "50",
+        "cep": "",
+        "Bairro": "Santíssimo",
+        "municipio": "Rio de Janeiro",
+        "sigla": "RJ"
+      },
+      {
+        "rua": "Rua Maiorca",
+        "numero": "101",
+        "cep": "",
+        "Bairro": "Senador Camará",
+        "municipio": "Rio de Janeiro",
+        "sigla": "RJ"
+      },
+      {
+        "rua": "",
+        "numero": "",
+        "cep": "",
+        "Bairro": "",
+        "municipio": "Rio de Janeiro",
+        "sigla": "RJ"
+      }
+    ],
+    "equipe":{
+      "professores": [
+        {
+          "id": "",
+          "avatar": "",
+          "nome": "",
+          "especialidade": "",
+          "descrição": ""
+        }
+      ],
+      "funcionarios": [
+        {
+          "id": "",
+          "avatar": "",
+          "nome": "",
+          "funcao": ""
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "nome": "step",
+        "unidade": [
+          {
+            "nomeUnidade": "",
+            "nomeProfessor": "",
+            "horarios": [],
+            "dias": []
+          }
+        ]
+      },
+      {
+        "nome": "Fit Dance",
+        "unidade": [
+          {
+            "nomeUnidade": "",
+            "nomeProfessor": "",
+            "horarios": [],
+            "dias": []
+          }
+        ]
+      },
+      {
+        "nome": "Cross Elo Fit",
+        "unidade": [
+          {
+            "nomeUnidade": "",
+            "nomeProfessor": "",
+            "horarios": [],
+            "dias": []
+          }
+        ]
+      }
+    ]
+  }
+}
