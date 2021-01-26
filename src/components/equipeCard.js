@@ -12,16 +12,16 @@ function equipe() {
             <div className="bg-card-prof w-56 h-64 p-4 rounded-md md:mx-2 my-2">
               <div className="w-full flex flex-col h-full items-center justify-center">
                 <img className="rounded-full h-32 w-32 mb-2  bg-cover bg-contain border-2 border-green-dark border-opacity-75" src="https://images.pexels.com/photos/2105493/pexels-photo-2105493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-                <div className="text-white">
+                <div className="text-white text-center">
                   <h2 className="text-2xl text-center font-semibold">Fulano de tal</h2>
-                  <span className="text-base font-regular">especialista em treino funcional</span>
+                  <span className="text-base font-regular text-center">especialista em treino funcional</span>
                 </div>
               </div>
             </div>
             <div className="bg-card-prof w-56 h-64 p-4 rounded-md md:mx-2 my-2">
               <div className="w-full flex flex-col h-full items-center justify-center">
                 <img className="rounded-full h-32 w-32 mb-2  bg-cover bg-contain border-2 border-green-dark border-opacity-75" src="https://images.pexels.com/photos/2105493/pexels-photo-2105493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-                <div className="text-white">
+                <div className="text-white text-center">
                   <h2 className="text-2xl text-center font-semibold">Fulano de tal</h2>
                   <span className="text-base font-regular">especialista em treino funcional</span>
                 </div>
@@ -30,7 +30,7 @@ function equipe() {
             <div className="bg-card-prof w-56 h-64 p-4 rounded-md md:mx-2 my-2">
               <div className="w-full flex flex-col h-full items-center justify-center">
                 <img className="rounded-full h-32 w-32 mb-2 border-2 border-green-dark border-opacity-75" src="https://images.pexels.com/photos/3768593/pexels-photo-3768593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-                <div className="text-white">
+                <div className="text-white text-center">
                   <h2 className="text-2xl text-center font-semibold">Fulano de tal</h2>
                   <span className="text-base font-regular">especialista em treino funcional</span>
                 </div>
