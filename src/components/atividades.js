@@ -2,7 +2,7 @@ import React from 'react';
 
 function atividades() {
   return (
- <section className="bg-black flex inline-flex w-full items-center flex-col" id="unidade">
+ <section className="bg-black flex inline-flex w-full items-center flex-col" id="atividades">
       <div className="items-center py-3 w-full">
         <h1 className="text-green font-bold text-2xl md:text-3xl text-center mt-3">Principais Atividades</h1>
       </div>
