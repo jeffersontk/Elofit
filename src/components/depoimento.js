@@ -2,9 +2,9 @@ import React from 'react';
 
 function depoimentos() {
   return (
-    <section className="bg-black w-full flex justify-center items-center flex-col p-4">
+    <section className="bg-black w-full flex justify-center items-center flex-col p-4 md:px-56">
       <span className="text-green font-semibold text-2xl md:text-3xl py-5 mb-5">Depoimentos</span>
-      <div className="border-green border-2 rounded-xl px-2 md:px-14 md:py-14 text-center">
+      <div className="border-green w-full border-2 rounded-xl px-2 md:px-4 md:py-4 text-center">
         <div className="flex flex-row items-center gap-2">
           <div className="h-44 flex items-start">
             <span className="text-6xl text-green">"</span>
