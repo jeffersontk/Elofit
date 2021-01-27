@@ -2,9 +2,9 @@ import React from 'react';
 
 function depoimentos() {
   return (
-    <div>
+    <section>
       <h1>depoimentos</h1>
-    </div>
+    </section>
   )
 }
 
