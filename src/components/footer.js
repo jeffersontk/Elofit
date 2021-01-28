@@ -8,9 +8,9 @@ function footer() {
           <img className="lg:block h-28 w-36 mb-2" src="https://lh3.googleusercontent.com/IxZ9q0EpVwjBizT53_gRtKiLDsK94A1t8ECMm6smsaNQiv1YvW3n6U85YitZ6h1-FW3i-hGB-N-sw6TTLozGOGCbtqAWqNdTF9z1AAVx-MLMk5ElcAhtfoIP5tDNc9PJ-ic18RNEBRcszRGUWSQwbx9toj1SUv7SpV7I42yl4uFHX3qpu4iXuus_MCuc_cIEFlweOp99k25v-R7aJMEZq91t8ZPNtVYvKjdx_-yJJ1xFA2brtnfMOvUOhOt3Z9bHJwKhPGra-PnyFx4iiSlfW5HjUto7Y-VmTRHsuRVWI6QKK_HKsTgvNsRjotoAm4rRPya0UwaZ25uNcMPMxi0r8Wp7zqggwhRke2hlvglmEODxT2xxPfrqE0VmrdJwyqkA65v2D4oVPkWcbOz83G7rPReSHnKvZJTBP5Ll5Tgf2_f6PY4iDpH4JHsDNEAWS49c3w6s4PdmXKTYlj4Su3h2m4zOh4xJhlSTMbHcG3YzzIiDOVKj9F19yHcaOszoSftP6w7Oy7vXBUmqHLQlEd3IF5g9TNm5r5Yg1JgXR1QLZHNe_zIIyp4Q7pg5cdTyLLzPjxY3EKxGGxxeTyLFqfCDOCTZIKKSMFOxvd3oOt4u7_Pyb-2w9U5E5mNaWf5_9u_CvZwO9kbcJBVxLaBpv1Li9k9Zn56StLWeFT4Dd3QxFX_cmRJI416HkWFcHS8ixSM=w186-h162-no?authuser=0" alt="Logo-Elofit"/>
           <span className="text-sm font-medium my-2">Siga nossas redes sociais</span>
           <div className="flex inline-flex flex-row py-2 justify-center items-center gap-2">
-            <img src="@/assets/icons/facebook.svg" alt="facebook icone" />
-            <img src="@/assets/icons/instagram.svg" alt="instagram icone" />
-            <img src="@/assets/icons/spotify.svg" alt="spotify icone" />
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dT6dVZ2WRdrmKq__PsJVtsSqqjL88zM8As4_H2TBn0NH0T0fFAsQNaBw-roqNvMOtIWnH0ALnA2vyKqeeRB0GgSq7OeLAVt-2RnsDg_6Cylotr1sffkD4NlxfQq_5a5XVDVMbtElnHjeH27TnaJb4OeA=s40-no?authuser=0" alt="facebook icone" />
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d6czT8pEK37uMAYJRBp9j6FAtETvWE7xgnvMeTZ1RDvU268TqOpNhGCD1R68uxIcAuXPuOg_FWFg7uMB3pHJ3X78V2ciJEVqIEzV-ubhMuK5nGtFOyCbXT0dL94BvVbdQzdLENykPad8FBmk1gNxVY3Q=s40-no?authuser=0" alt="instagram icone" />
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e7aqw4FneBODw90NsGu6p19z_bS8DpS1nLRqBK4nQIbb5En9DpLFOyMSI6stlmJ14m0caNShMHF9gGr-_jAf2PG2ViSdSbd6uxeik9hWR8IfR7Xktf8QTAu4tSr9kz0P321bsNsGcn_qu1aR2uxlAGog=s40-no?authuser=0" alt="spotify icone" />
           </div>
         </div>
         <div className="hidden md:block w-full">
